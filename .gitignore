@@ -1,0 +1,4 @@
+dars_simple.db
+.env
+__pycache__/
+*.pyc
